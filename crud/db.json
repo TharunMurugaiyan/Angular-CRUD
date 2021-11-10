@@ -1,0 +1,54 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Kishoreeh",
+      "lastname": "uncled",
+      "email": "kish.m@gmail.com",
+      "mobile": "1236547890",
+      "salary": "50000"
+    },
+    {
+      "id": 2,
+      "firstname": "mihilan",
+      "lastname": "j",
+      "email": "m.j@gmail.com",
+      "mobile": "789654130",
+      "salary": "50000"
+    },
+    {
+      "id": 3,
+      "firstname": "manic",
+      "lastname": "maran",
+      "email": "mani.m@gmail.com",
+      "mobile": "98746310",
+      "salary": "60000"
+    },
+    {
+      "id": 5,
+      "firstname": "mihilan",
+      "lastname": "4",
+      "email": "m.j@gmail.com",
+      "mobile": "789654130",
+      "salary": "50000"
+    },
+    {
+      "id": 6,
+      "firstname": "harini",
+      "lastname": "v",
+      "email": "v@gmail.com",
+      "mobile": "456123987",
+      "salary": "522200"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
